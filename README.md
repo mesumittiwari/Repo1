@@ -1,4 +1,4 @@
 # Repo1
 This is my first repository.
 <br>
-Author- Sumit Tiwari
+Author- Mr. Sumit Tiwari
